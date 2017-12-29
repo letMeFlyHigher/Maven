@@ -1,3 +1,5 @@
+英文源文档：https://maven.apache.org/guides/mini/guide-configuring-plugins.html
+
 1. 配置Plug-ins指南
    1. 一般配置
    1. 帮助目标
